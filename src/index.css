@@ -63,6 +63,9 @@ body{
 main{
   padding: 55px 27px;
   color: white;
+  background-image: url(./assets/reactjs-icon\ 2.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
 
 .main--title{
